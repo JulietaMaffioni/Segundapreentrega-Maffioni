@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "One Millon",
+    "image": "/assets/OneMillon.jpg",
+    "price": 44550,
+    "category": "Perfumes",
+    "info": "Posee un aroma cálido de madera con notas de menta pimentada y mandarina sanguínea en la salida. El corazón revela canela y absoluto de rosa, mientras que las notas de fondo incluyen ámbar ketal y cuero, creando una composición distintiva."
+  },
+  {
+    "id": 2,
+    "name": "Secador de pelo GA.MA Italy Mistral Ceramic ION negro 220V",
+    "image": "/assets/secador.jpg",
+    "price": 20000,
+    "category": "Herramientas",
+    "info": "La potencia es de 2200W con un cable de 1.7m de longitud. Ofrece 3 niveles de temperatura y 2 velocidades, con función iónica. Incluye 1 boquilla de conducción y gancho para colgar. Perfecto para agregar volumen a tu cabello de manera efectiva."
+  },
+  {
+    "id": 3,
+    "name": "Crema Sensitive La Roche-Posay Toleriane día/noche para piel seca/sensible",
+    "image": "/assets/Toleriane-Sensitive-40ml.webp",
+    "price": 13040,
+    "category": "Cosmeticos",
+    "info": "Crema calmante y reparadora para piel seca/sensible, con propiedades anti enrojecimiento e hidratantes. Adecuada para aplicación de día y noche. Formulada como cosmético hipoalergénico, libre de parabenos y sometido a pruebas dermatológicas."
+  },
+  {
+    "id": 4,
+    "name": "Scandal",
+    "image": "/assets/Scandal.jpg",
+    "price": 44500,
+    "category": "Perfumes",
+    "info": "SO SCANDAL! En su composición se destaca con flores de naranjo en la salida, jazmín y tuberosa en el corazón, y adictivas notas lechosas en el fondo, creando una experiencia olfativa extravagante y embriagadora."
+  },
+  {
+    "id": 5,
+    "name": "Serum Revitalift Loreal Paris Ácido Hialurónico",
+    "image": "/assets/loreal.jpg",
+    "price": 7899,
+    "category": "Cosmeticos",
+    "info": "Sérum versátil para todo tipo de piel, con propiedades antiarrugas, antiedad, hidratantes, reafirmantes y suavizantes. Puede aplicarse de día y noche. Formulado como cosmético hipoalergénico, sin parabenos y probado dermatológicamente. Perfecto para el cuidado facial completo."
+  },
+  {
+    "id": 6,
+    "name": "Planchita De Pelo Gama Ergostyler",
+    "image": "/assets/planchita.jpg",
+    "price": 13689,
+    "category": "Herramientas",
+    "info": "Plancha con placas de cerámica y turmalina, función de bloqueo y temperatura máxima de 220 °C. Características iónicas para un alisado cuidadoso. Incluye aro para colgar. Ideal para mantener un lacio perfecto y bien cuidado a diario."
+  },
+  {
+    "id": 7,
+    "name": "La Vie Est Belle",
+    "image": "/assets/LavieestBelle.jpg",
+    "price": 45900,
+    "category": "Perfumes",
+    "info": "Eau de Parfum Lancôme La Vie est Belle ofrece un cautivador aroma floral para mujeres sofisticadas. Sus notas incluyen cassis, flor de naranjo, iris y jazmín. Presentado en un formato spray conveniente y recargable para uso diario o en ocasiones especiales, permitiendo disfrutarlo por más tiempo."
+  },
+  {
+    "id": 8,
+    "name": "Cepillo Secador Revlon",
+    "image": "/assets/cepillosecador.png",
+    "price": 39999,
+    "category": "Herramientas",
+    "info": "Características: Temperatura máxima de 85°C y potencia de 800W. Control de temperatura disponible. Cerdas de cerámica. Logra un look deseado en minutos con facilidad."
+  }
+]
